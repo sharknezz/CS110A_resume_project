@@ -28,7 +28,7 @@ Update:
 Name, email, and links
 Education, Experience, and Projects
 Replace photo_placeholder.png with your own photo
-Keep the same file name (photo_placeholder.png), or update the <img src> path in HTML.
+Keep the same file name (photo_placeholder.png), or update the "<img src>" path in HTML.
 You can preview your changes by double-clicking the .html file to open it in a web browser.
 
 ### 3. Commit Your Changes
