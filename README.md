@@ -16,9 +16,11 @@ This is the template project created for CS110A students as an option choice for
 ### 1. Clone the Template.
 At your operating system's terminal enter following command in the order given. After chaniging directory (cd CS110A_resume_project) dir(in Windows) or ls(Mac, Linux) to view the content to verfy. Then take a screenshot as a part of your midterm project submission. 
 
+```
 git clone https://github.com/iswCS110cCCSF/CS110A_resume_project.git
 cd CS110A_resume_project
 dir/ls
+```
 
 ### 2. Edit Your Resume
 
