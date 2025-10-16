@@ -17,9 +17,9 @@ This is the template project created for CS110A students as an option choice for
 At your operating system's terminal enter following command in the order given. After chaniging directory (cd CS110A_resume_project) dir(in Windows) or ls(Mac, Linux) to view the content to verfy. Then take a screenshot as a part of your midterm project submission. 
 
 ```
-git clone https://github.com/iswCS110cCCSF/CS110A_resume_project.git
-cd CS110A_resume_project
-dir/ls
+>git clone https://github.com/iswCS110cCCSF/CS110A_resume_project.git
+>cd CS110A_resume_project
+>dir/ls
 ```
 
 ### 2. Edit Your Resume
@@ -36,13 +36,17 @@ You can preview your changes by double-clicking the .html file to open it in a w
 ### 3. Commit Your Changes
 Save your edits, then run inside CS110A_resume_project. Take a screenshot as a part of your midterm project submission:
 
+```
 >git add .
 >git commit -m "Personalized my resume"
+```
 
 ### 4. Push to GitHub
+```
 >git branch -M main
 >git remote add origin https://github.com/YOUR_GitHub_USERNAME/CS110A_resume_project.git
 >git push -u origin main
+```
 
 ### 5. Enable GitHub Pages
 
@@ -53,12 +57,12 @@ Wait a minute, then visit:
 https://YOUR_GitHub_USERNAME.github.io/CS110A_resume_project/
 Your résumé is live on the web!
 
-💡 Tips
+Tips
 You can rename the file you want to use as index.html — that’s what GitHub Pages loads first.
 To make your résumé stand out, add links to your projects, GitHub profile, or class portfolio.
 Try viewing it on your phone — it’s fully responsive!
 
-🧩 Optional Enhancements
+Optional Enhancements
 Embed a Google Form for feedback or contact info:
 <iframe src="https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform?embedded=true" width="640" height="800"></iframe>
 
