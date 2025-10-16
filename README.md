@@ -72,4 +72,4 @@ Add your Python or JS projects in a "Projects" section.
 Customize colors in style.css. Explore how you can improve your web resume and make it your own.
 
 ## Advice and Help
-Need advice on how to improve or maybe to add a JS file or simply stuck. Your instructor and TAs are here to help. 
+Ask me how you can show case a Python turtle code you wrote in the class and animate it in your resume. Need advice on how to improve or maybe to add a JS file or simply stuck. Your instructor and TAs are here to help. 
