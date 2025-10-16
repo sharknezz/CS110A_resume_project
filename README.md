@@ -55,9 +55,10 @@ https://YOUR_GitHub_USERNAME.github.io/CS110A_resume_project/
 Your résumé is live on the web!
 
 ## 6. Submit your resume project
-Invite your professor to your GitHub repository via his GitHub user name, iswCS110cCCSF or email iwalimuni@ccsf.edu
-Collect all the screenshots and zip them into a file with your name
-Email the link to your resume (GitHub page not the GitHub project) and also submit it via a submission comment in Canvas
+-Invite your professor to your GitHub repository via his GitHub user name, iswCS110cCCSF or email iwalimuni@ccsf.edu
+-Collect all the screenshots and zip them into a file with your name
+-Submit this zip file in Canvas
+-Email the link to your resume (GitHub page not the GitHub project) and also submit it via a submission comment in Canvas
 
 ## Tips
 You can rename the file you want to use as index.html — that’s what GitHub Pages loads first.
